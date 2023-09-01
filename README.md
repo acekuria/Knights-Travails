@@ -1,1 +1,2 @@
 # Knights-Travails
+A program to find the shortest path of a knight on a chessboard from one space to another as part of the Odin Project. Used Breadth First Search to traverse the graph and get the shortest path.
